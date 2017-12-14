@@ -31,7 +31,7 @@ You can set **UseStaticHeaders** declaratively at design time:
 <telerik:RadGrid RenderMode="Lightweight" runat="server" ... />
    <ClientSettings>
        <Scrolling AllowScroll="True" UseStaticHeaders="true" />
-   <ClientSettings>
+   </ClientSettings>
    ...
 </telerik:RadGrid>		
 ````
